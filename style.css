@@ -355,7 +355,7 @@ main .movie-recommendation{
 .movie-cards ul{
     display: flex;
     list-style: none;
-
+    justify-content: center;
 }
 .movie-cards ul li{
     padding: 0.5rem 1.4rem;
